@@ -3,6 +3,8 @@ Hey there, I'm [Rajkamala Kanna](https://www.linkedin.com/in/rajkamalkanna/), Ra
 
 As a freelance, I have gained valuable insights and expertise through continuous learning and practical experience. I believe in the power of collaboration and knowledge sharing, which have played a significant role in shaping my skills and approach to software development. [ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/rajkamalkanna)<br><br><!-- Here are some ideas to get you started: --><br><br><!-- - 👯 I’m looking to collaborate on any JavaScript Project --><br><!-- - 🔭 I’m currently working on ... --><br>- 🦋 Don't be a programmer, Be a problem solver.<br>- 🌱 I’m currently learning **MERN** <br>- 💬 Ask me about **JavaScript && MERN Stack** <br>- 📫 Reach out to me at **[`@Rajkamal Kanna`](mailto:rajkamalkanna4@gmail.com)** <br><!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** --><br><!-- - 🤔 I’m looking for help with ... --><br><!-- - 😄 Pronouns: ...<br>- ⚡ Fun fact: ... -->
 
+---
+[![](https://visitcount.itsvg.in/api?id=rajkamalkanna&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rajkamalkanna) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rajkamalkanna) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajkamalkanna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkamalkanna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajkamalkanna) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rajkamalkanna) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/rajkamal-kanna) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rajkamalkanna) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rajkamalkanna) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rajkamal-kanna) 
@@ -24,9 +26,3 @@ As a freelance, I have gained valuable insights and expertise through continuous
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rajkamalkanna&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=rajkamalkanna&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
